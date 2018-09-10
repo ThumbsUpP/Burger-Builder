@@ -2,7 +2,7 @@
 
 A Single Page Application allowing its users to make their own Burger before ordering it.
 
-Visit page here: https://stephanorgiazzi.github.io/burger-shack/
+Visit page here: https://thumbsupp.github.io/burger-builder/
 
 ## Built With
 
