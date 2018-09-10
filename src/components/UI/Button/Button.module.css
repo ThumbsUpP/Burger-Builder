@@ -1,0 +1,35 @@
+.Button {
+    background-color: transparent;
+    border: none;
+    color: green;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    display: block;
+}
+
+.Button {
+    margin: 0 auto;
+}
+
+.Success {
+    color: rgb(67, 164, 34);
+}
+
+.Danger {
+    color: red;
+    font-size: .8rem;
+}
+
+.Switch {
+    color: royalblue;
+    font-size: .8rem;
+    font-weight: 600;
+}
+
+.Button:disabled {
+    color: #ccc;
+}
