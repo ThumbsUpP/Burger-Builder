@@ -1,15 +1,10 @@
 import React, { Component } from 'react';
 import { Route, withRouter, Switch, Redirect } from "react-router-dom";
 import { connect } from "react-redux";
-
 import Layout from "./components/Layout/Layout";
 import BurgerBuilder from "./containers/BurgerBuilder/BurgerBuilder";
-// import Checkout from "./containers/Checkout/Checkout"; (lazyloaded via asynComponent)
-// import Orders from "./containers/Orders/Orders"; (lazyloaded via asynComponent)
-// import Auth from "./containers/Auth/Auth"; (lazyloaded via asynComponent)
 import Logout from "./containers/Auth/Logout/Logout";
 import * as actions from "./store/actions/index";
-
 import asyncComponent from "./hoc/asyncComponent/asynComponent";
 
 const asyncCheckout = asyncComponent(() => {

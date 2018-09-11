@@ -1,8 +1,8 @@
 {
-  "name": "burger-shack",
+  "name": "burger-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://stephanorgiazzi.github.io/burger-shack",
+  "homepage": "http://thumbsupp.github.io/burger-builder",
   "dependencies": {
     "axios": "^0.17.1",
     "just-clone": "^3.0.0",

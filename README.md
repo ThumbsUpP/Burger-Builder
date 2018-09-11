@@ -1,4 +1,4 @@
-# Burger Shack (React/redux App)
+# Burger Builder (React/redux App)
 
 A Single Page Application allowing its users to make their own Burger before ordering it.
 
